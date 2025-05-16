@@ -34,7 +34,7 @@ This was an **exciting and insightful data science project** focused on the **CO
 
 * 💻 Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 * 📅 Prophet (for accurate time series forecasting)
-* 🌏 Plotly / Pydeck / Kepler.gl (for interactive 3D world maps)
+* 🌏 Plotly / Choropleth  (for interactive 3D world maps)
 * 🧪 Jupyter Notebooks (for development and analysis)
 
 ---
